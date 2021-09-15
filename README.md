@@ -5,7 +5,7 @@ This Repository helps you to implement capturing of live video feed and sending 
 - Backend (Flask)
 
 ## Running Locally
-- `git clone https://github.com/nikitakhatriya/Video_Streaming.git`
+- `git clone https://github.com/nikitakhatriya/Video_streaming.git`
 
 ### Running React
 
@@ -19,6 +19,3 @@ This Repository helps you to implement capturing of live video feed and sending 
 - `cd flask`
 - `pip3 install -r requirements.txt`
 - `python app.py` (Python3)
-
-      
-</center>
